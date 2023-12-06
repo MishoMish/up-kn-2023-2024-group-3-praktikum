@@ -125,10 +125,7 @@ N1 < N2 > N3 < N4 > N5 <..
  
 ## Задача 28
 Да се напише функция, която въвежда едномерен масив от целочислени числа и да ги сортира във възходящ ред.
-### За задачите за сортиране може да ползвате един от следните алгоритми за сортиране: Bubble sort, insertion sort, selection sort.
-### Link: https://www.programiz.com/dsa/bubble-sort
-### Link: https://www.programiz.com/dsa/selection-sort
-### Link: https://www.programiz.com/dsa/insertion-sort
+> За задачите за сортиране може да ползвате един от следните алгоритми за сортиране: [Bubble sort](https://www.programiz.com/dsa/bubble-sort), [Insertion sort](https://www.programiz.com/dsa/selection-sort), [Selection sort](https://www.programiz.com/dsa/insertion-sort).
 
 ### Задача 29
 Напишете функция, която приема два символни низа от латински букви и променя първия масив като прави главни всичките букви, които присъстват във втория низ.
